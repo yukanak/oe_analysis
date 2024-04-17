@@ -8,6 +8,7 @@ import numpy as np
 import math
 import sys,os
 import Lx_BA_ModuleMapping as bamap
+import Lx_SK_ModuleMapping as skmap
 
 Ndet_mce = 16*41
 Ndet_det = 495 # useless
